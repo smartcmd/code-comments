@@ -1,0 +1,5 @@
+interface:
+  display_name: "Code Comments"
+  short_description: "Require complete comments on handwritten code"
+policy:
+  allow_implicit_invocation: true
